@@ -1,3 +1,4 @@
+<img src="https://github.com/marcospatton/LinguagemC/blob/main/c.jpg"></a>
 # LinguagemC
 
 <h2><b>Jogo de adivinhação em linguagem C</b></h2>
